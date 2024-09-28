@@ -22,13 +22,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag-pathak" alt="anurag-pathak" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://anuragpathak.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://raj-anand-portfolio.netlify.app)
 
-- 📝 I regularly write articles on [anurag-pathak.hashnode.dev](https://anurag-pathak.hashnode.dev/)
+- 📫 Reach out to me **<sonirajanand677@gmail.com>**
 
-- 📫 How to reach me **<pathakanurag605@gmail.com>**
-
-- 📄 Know about my experiences [Resume](https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/Anurag_Pathak_SDE_Resume.pdf)
 
 - ⚡ Fun fact **I am very Rich**
 
